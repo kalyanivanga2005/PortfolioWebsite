@@ -204,23 +204,22 @@ Stores user contact information in MongoDB.
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshots   ← IKKADA screenshots add cheyyali
 
-Add your project screenshots here:
-
-* Home Page
-* About Section
-* Skills Section
-* Projects Section
-* Contact Form
-
-Example:
-
-```
+### Home Page
 ![Home Page](screenshots/home.png)
-```
 
----
+### About Section
+![About](screenshots/about.png)
+
+### Skills Section
+![Skills](screenshots/skills.png)
+
+### Projects Section
+![Projects](screenshots/projects.png)
+
+### Contact Section
+![Contact](screenshots/contact.png)
 
 ## 📚 Projects Included
 
