@@ -260,7 +260,7 @@ GitHub:
 https://github.com/KalyaniVanga
 
 LinkedIn:
-Add your LinkedIn URL here
+https://www.linkedin.com/in/kalyani-vanga-985331307/
 
 ---
 
