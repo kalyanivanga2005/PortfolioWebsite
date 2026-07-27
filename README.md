@@ -194,6 +194,24 @@ Returns all portfolio projects.
 
 ---
 
+
+## 📸 Screenshots
+
+### Home Page
+![Home Page](./screenshots/home.png)
+
+### About Section
+![About Section](./screenshots/about.png)
+
+### Skills Section
+![Skills Section](./screenshots/skills.png)
+
+### Projects Section
+![Projects Section](./screenshots/projects.png)
+
+### Contact Section
+![Contact Section](./screenshots/contact.png)
+
 ### Submit Contact Form
 
 ```
