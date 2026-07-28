@@ -258,7 +258,7 @@ A complete MERN stack portfolio application with database and deployment.
 B.Tech Computer Science Engineering Student
 
 GitHub:
-https://github.com/KalyaniVanga
+https://github.com/KalyaniVanga2005
 
 LinkedIn:
 https://www.linkedin.com/in/kalyani-vanga-985331307/
